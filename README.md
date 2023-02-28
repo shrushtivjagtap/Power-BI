@@ -1,5 +1,6 @@
 # Sales Summary Report
 Hi, 
+
 Global Super Store is an online supergiant store that has worldwide operations. This store
 takes orders and delivers products across the globe and deals with all the major product
 categories like furniture, office supplies and technology, and so on.
