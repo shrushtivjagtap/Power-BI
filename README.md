@@ -1,4 +1,5 @@
-# Sales Summary Report
+# Sales Summary
+
 Hi, 
 
 Global Super Store is an online supergiant store that has worldwide operations. This store
